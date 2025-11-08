@@ -23,7 +23,7 @@ body {
 
 .presentacion {
 
-    background-image: url('assets/img/download.jpg');
+    background-image: url('./assets/img/download.jpg');
 
     background-size: cover;
 
@@ -106,7 +106,7 @@ th {
 
 
 .principiante {
-    background-image: url('assets/img/download\ \(4\).jpg');
+    background-image: url('./assets/img/download\ \(4\).jpg');
 
     background-repeat: no-repeat;
     border-radius: 50px;
@@ -130,7 +130,7 @@ th {
 
 
 .intermedio {
-    background-image: url('assets/img/download\ \(3\).jpg');
+    background-image: url('./assets/img/download\ \(3\).jpg');
 
     background-repeat: no-repeat;
     border-radius: 50px;
@@ -154,7 +154,7 @@ th {
 }
 
 .avanzado {
-    background-image: url('assets/img/download\ \(1\).jpg');
+    background-image: url('./assets/img/download\ \(1\).jpg');
 
     background-repeat: no-repeat;
     border-radius: 50px;
