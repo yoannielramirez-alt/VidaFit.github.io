@@ -1,0 +1,1762 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Plan para Principiantes </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="gris">
+    <header>
+
+        <h1 class="rutinas">--Rutina para principiantes - Push / Pull / Leg - 5 dias a la semana-- </h1>
+        <p id="fantasma" class="emoji">👻</p>
+    </header>
+    <section>
+        <h2 class="dias">Lunes ( Pecho-Hombro-Triceps )</h2>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Press Inclinado <br> ( de 6 a 8 repeticiones en cada serie - 3 series en total)
+            </h3><video controls class="videos" src="assets/videos/6(1).mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio"> Fondos <br> (2 series intensas con objetivo aprox al fallo muscular)</h3><video
+                controls class="videos" src="assets/videos/25.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Elevaciones laterales con mancuernas<br> ( de 8 a 10 repeticiones en cada serie
+                - 3 series en total)</h3><video controls class="videos" src="assets/videos/1031.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Press de hombro <br> ( de 8 a 10 repeticiones en cada serie - 3 series en total)
+            </h3><video controls class="videos" src="assets/videos/18.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Extension de triceps en polea <br> (de 10 a 12 repeticiones en cada serie - 3
+                series en total)</h3><video controls class="videos" src="assets/videos/38.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+    </section>
+    <section>
+        <h2 class="dias">Martes ( Espalda-Biceps-Trapecio )</h2>
+
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Dominadas <br> (de 8 a 10 repeticiones en cada serie - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/39.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Jalon en polea con agarre neutro <br> ( de 6 a 8 repeticiones en cada serie - 3
+                series en
+                total)</h3>
+            <video controls class="videos" src="assets/videos/32.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Jalon en polea con agarre supino <br> ( de 6 a 8 repeticiones en cada serie - 3
+                series en
+                total)</h3>
+            <video controls class="videos" src="assets/videos/9.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Curl de biceps con barra <br> (de 8 a 10 repeticiones en cada serie - 3 series
+                en total)</h3><video controls class="videos" src="assets/videos/21.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Curl martillo <br> (de 8 a 10 repeticiones en cada serie - 3 series en total)
+            </h3><video controls class="videos" src="assets/videos/22.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Encojimiento de hombros<br> (de 8 a 10 repeticiones en cada serie - 3 series en
+                total)</h3><video controls class="videos" src="assets/videos/3.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+    </section>
+    <section>
+        <h2 class="dias">Miercoles ( Pierna )</h2>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Sentadilla <br> ( de 6 a 8 repeticiones en cada serie - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/10.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Prensa <br> ( de 6 a 8 repeticiones en cada serie - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/11.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Bulgaras <br> (de 8 a 10 repeticiones en cada serie - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/16.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Peso muerto rumano <br> ( de 6 a 8 repeticiones en cada serie - 3 series en
+                total)</h3><video controls class="videos" src="assets/videos/30.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Gemelos<br> ( de 8 a 10 repeticiones en cada serie - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/3(1).mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+
+    </section>
+    <section>
+        <h2 class="dias"> Jueves ( Pecho-Hombro-Triceps )</h2>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio"> Press Plano <br> ( de 6 a 8 repeticiones en cada serie - 3 series en total)
+            </h3><video controls class="videos" src="assets/videos/8.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio"> Fondos <br> (2 series intensas con objetivo aprox al fallo muscular)</h3><video
+                controls class="videos" src="assets/videos/25.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Elevaciones laterales con mancuernas<br> ( de 8 a 10 repeticiones en cada serie
+                - 3 series en total)</h3><video controls class="videos" src="assets/videos/1031.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Deltoides posterior<br> ( de 8 a 10 repeticiones en cada serie
+                - 3 series en total)</h3><video controls class="videos" src="assets/videos/4.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Press frances <br> (de 10 a 12 repeticiones en cada serie - 3 series en
+                total)</h3><video controls class="videos" src="assets/videos/5.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+    </section>
+    <section>
+        <h2 class="dias"> Viernes ( Espalda-Biceps-Trapecio )</h2>
+
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Dominadas <br> (de 8 a 10 repeticiones en cada serie - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/39.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Remo sentado con agarre neutro <br> ( de 6 a 8 repeticiones en cada serie - 3
+                series en total)</h3><video controls class="videos" src="assets/videos/26.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Curl concentrado <br> (de 8 a 10 repeticiones en cada serie - 3 series en total)
+            </h3><video controls class="videos" src="assets/videos/40.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Curl martillo <br> (de 8 a 10 repeticiones en cada serie - 3 series en total)
+            </h3><video controls class="videos" src="assets/videos/22.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+
+    </section><br><br><br><br>
+
+    <footer class="pieRutinas">
+
+        <div class="link"> <a href="#fantasma" class="enlaces">
+                <h3>Volver al inicio de la rutina</h3>
+            </a>
+        </div>
+        <div class="link"> <a href="index.html" class="enlaces">
+                <h3>Volver a la pagina principal</h3>
+            </a></div>
+
+        <div class="link"> <a href="planes.html" class="enlaces">
+                <h3>Planes</h3>
+            </a></div>
+
+        <div class="link"><a href="consejos.html" class="enlaces">
+                <h3>Consejos</h3>
+            </a></div>
+        <div class="link">
+            <a href="https://wa.me/+5356873664" class="enlaces">
+                <h3>Contacta al entrenador de VidaFit</h3>
+            </a>
+        </div>
+
+    </footer>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Planes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+
+        <h1 class="elige">Elige un plan</h1>
+
+    </header>
+    <section>
+
+        <article>
+            <ul class="lista">
+                <li>
+
+                    <a href="paginaPrincipiante.html" style="text-decoration: none;">
+                        <table class="principiante">
+
+                            <thead>
+                                <th>Plan para Principiantes</th>
+                            </thead>
+                        </table>
+                    </a>
+
+
+
+
+                    </table>
+
+                </li>
+                <li>
+
+
+                    <a href="paginaIntermedio.html" style="text-decoration: none;">
+                        <table class="intermedio">
+                            <thead>
+                                <th>Plan para Intermedios</th>
+                            </thead>
+
+                        </table>
+                    </a>
+
+
+
+
+                </li>
+                <li>
+                    <a href="paginaAvanzados.html" style="text-decoration: none;">
+                        <table class="avanzado">
+                            <thead>
+                                <th>Plan para avanzados</th>
+
+                            </thead>
+
+                        </table>
+                    </a>
+
+                </li>
+            </ul>
+
+        </article>
+    </section>
+
+
+
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title> Tu Rutina de Gimnasio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 2rem;
+        }
+
+        .logo {
+            font-size: 1.8rem;
+            font-weight: bold;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+
+        nav ul li {
+            margin-left: 2rem;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+
+        nav ul li a:hover {
+            color: #ffd700;
+        }
+
+        .hero {
+            background: url('https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80') no-repeat center center/cover;
+            height: 80vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+            margin-top: 60px;
+        }
+
+        .hero-content {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 2rem;
+            border-radius: 10px;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+        }
+
+        .section-title {
+            text-align: center;
+            margin-bottom: 3rem;
+            color: #333;
+        }
+
+        .routine-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .routine-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+        }
+
+        .routine-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .routine-card h3 {
+            color: #667eea;
+            margin-bottom: 1rem;
+        }
+
+        .exercise-list {
+            list-style: none;
+        }
+
+        .exercise-list li {
+            padding: 0.5rem 0;
+            border-bottom: 1px solid #eee;
+        }
+
+        .exercise-list li:last-child {
+            border-bottom: none;
+        }
+
+        .tips-section {
+            background: white;
+            padding: 3rem;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            margin-bottom: 3rem;
+        }
+
+        .tips-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+        }
+
+        .tip-item {
+            text-align: center;
+            padding: 1rem;
+        }
+
+        .tip-item i {
+            font-size: 2rem;
+            color: #667eea;
+            margin-bottom: 1rem;
+        }
+
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 2rem 0;
+            margin-top: 3rem;
+        }
+
+        @media (max-width: 768px) {
+            .nav-container {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            nav ul {
+                margin-top: 1rem;
+            }
+
+            nav ul li {
+                margin: 0 0.5rem;
+            }
+
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .routine-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="nav-container">
+            <div class="logo">FitLife</div>
+            <nav>
+                <ul>
+                    <li><a href="#inicio">Inicio</a></li>
+                    <li><a href="#rutinas">Rutinas</a></li>
+                    <li><a href="#tips">Consejos</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="inicio" class="hero">
+        <div class="hero-content">
+            <h1>Transforma Tu Cuerpo</h1>
+            <p>Rutinas profesionales para todos los niveles</p>
+        </div>
+    </section>
+
+    <div class="container">
+        <section id="rutinas">
+            <h2 class="section-title">Rutinas de Entrenamiento</h2>
+
+            <div class="routine-grid">
+                <div class="routine-card">
+                    <h3>Principiante - Full Body</h3>
+                    <ul class="exercise-list">
+                        <li>🔄 Sentadillas: 3x12</li>
+                        <li>🔄 Press de banca: 3x10</li>
+                        <li>🔄 Dominadas asistidas: 3x8</li>
+                        <li>🔄 Press militar: 3x10</li>
+                        <li>🔄 Curl de bíceps: 3x12</li>
+                        <li>🔄 Extensiones de tríceps: 3x12</li>
+                        <li>🔄 Plancha: 3x30 segundos</li>
+                    </ul>
+                </div>
+
+                <div class="routine-card">
+                    <h3>Intermedio - Push/Pull/Legs</h3>
+                    <ul class="exercise-list">
+                        <li><strong>Push:</strong> Press banca, Press militar, Fondos</li>
+                        <li><strong>Pull:</strong> Dominadas, Remo con barra, Curl martillo</li>
+                        <li><strong>Legs:</strong> Sentadillas, Peso muerto, Extensiones</li>
+                        <li>📅 6 días por semana</li>
+                        <li>⏱️ 60-75 minutos por sesión</li>
+                    </ul>
+                </div>
+
+                <div class="routine-card">
+                    <h3>Avanzado - Fuerza</h3>
+                    <ul class="exercise-list">
+                        <li>🏋️ Sentadillas pesadas: 5x5</li>
+                        <li>🏋️ Press banca: 5x5</li>
+                        <li>🏋️ Peso muerto: 1x5</li>
+                        <li>🏋️ Press militar: 5x5</li>
+                        <li>🏋️ Remo con barra: 5x5</li>
+                        <li>📈 Progresión lineal</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="tips" class="tips-section">
+            <h2 class="section-title">Consejos de Entrenamiento</h2>
+            <div class="tips-grid">
+                <div class="tip-item">
+                    <i>💪</i>
+                    <h3>Progresión Constante</h3>
+                    <p>Aumenta el peso o repeticiones cada semana</p>
+                </div>
+                <div class="tip-item">
+                    <i>🍎</i>
+                    <h3>Nutrición</h3>
+                    <p>Proteína suficiente y calorías adecuadas</p>
+                </div>
+                <div class="tip-item">
+                    <i>💤</i>
+                    <h3>Descanso</h3>
+                    <p>7-8 horas de sueño para la recuperación</p>
+                </div>
+                <div class="tip-item">
+                    <i>🚰</i>
+                    <h3>Hidratación</h3>
+                    <p>2-3 litros de agua diarios</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="contacto">
+            <h2 class="section-title">¿Necesitas Ayuda Personalizada?</h2>
+            <div style="text-align: center; margin-bottom: 3rem;">
+                <p>Contáctanos para crear una rutina específica para tus objetivos</p>
+                <button
+                    style="background: #667eea; color: white; border: none; padding: 1rem 2rem; border-radius: 5px; margin-top: 1rem; cursor: pointer;">
+                    Solicitar Asesoría
+                </button>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 FitLife - Rutinas de Gimnasio. Todos los derechos reservados.</p>
+        <p style="margin-top: 1rem;">Síguenos en redes sociales</p>
+    </footer>
+
+    <script>
+        // Smooth scroll para los enlaces del menú
+        document.querySelectorAll('nav a').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const targetId = this.getAttribute('href');
+                const targetElement = document.querySelector(targetId);
+                targetElement.scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'start'
+                });
+            });
+        });
+
+        // Efecto de scroll para el header
+        window.addEventListener('scroll', function () {
+            const header = document.querySelector('header');
+            if (window.scrollY > 100) {
+                header.style.background = 'rgba(102, 126, 234, 0.95)';
+            } else {
+                header.style.background = 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)';
+            }
+        });
+    </script>
+</body>
+
+</html>
+body {
+    background-color: black;
+}
+
+.emoji {
+    text-align: center;
+    font-size: 60px;
+    text-shadow:
+        1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.5);
+}
+
+/*Pagina principal*/
+.lugarcorrecto {
+    padding: 1px;
+    color: white;
+    font-size: 50px;
+}
+
+.presentacion {
+
+    background-image: url('assets/img/download.jpg');
+
+    background-size: cover;
+
+    background-repeat: no-repeat;
+    background-position: center top;
+    margin: auto;
+
+    padding: 50px;
+
+    border-radius: 50px;
+    height: 500px;
+    width: 80%;
+    max-width: 700px;
+    display: flex;
+    text-align: center;
+}
+
+
+#hora {
+    text-align: center;
+    color: white;
+    border: 5px solid white;
+
+    font-size: 30px;
+
+    height: 45px;
+
+
+    width: 300px;
+    padding: 15px 4px 10px 4px;
+
+    margin-top: 300px;
+    margin-left: 30px;
+    display: flex;
+    padding: auto;
+
+
+
+
+
+
+}
+
+#hora:hover {
+    box-shadow: 1px 1px 2px 2px white;
+
+
+}
+
+.pieDePagina {
+    background-color: black;
+    color: #EAEAEA;
+    width: 100%;
+    height: 115px;
+    font-size: 20px;
+    padding-left: 15px;
+    text-align: center;
+}
+
+
+/*Planes*/
+
+
+
+
+
+
+th {
+
+    font-size: 38px;
+    text-decoration-color: aliceblue;
+    height: 76px;
+    width: 418px;
+    padding: 38px;
+
+
+
+}
+
+
+
+.principiante {
+    background-image: url('assets/img/download\ \(4\).jpg');
+
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    font-size: 40px;
+
+    height: 200px;
+
+    width: 400px;
+
+    background-position: center;
+    color: white;
+    transition: 0.3s;
+    margin-left: 110px;
+
+    text-align: center;
+
+
+
+}
+
+
+
+.intermedio {
+    background-image: url('assets/img/download\ \(3\).jpg');
+
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    font-size: 40px;
+    height: 200px;
+
+    width: 400px;
+
+    background-position: center;
+    color: white;
+    transition: 0.3s;
+    text-align: center;
+
+
+
+
+
+
+
+
+}
+
+.avanzado {
+    background-image: url('assets/img/download\ \(1\).jpg');
+
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    font-size: 40px;
+    height: 200px;
+
+    width: 400px;
+
+    background-position: center;
+    color: white;
+    transition: 0.3s;
+    text-align: center;
+
+
+
+}
+
+.lista {
+    display: flex;
+    gap: 160px;
+    list-style-type: none;
+    margin-top: 150px;
+}
+
+
+.principiante:hover {
+    box-shadow: 3px 5px 7px 8px rgb(114, 112, 112);
+
+
+
+
+}
+
+.intermedio:hover {
+    box-shadow: 3px 5px 7px 8px rgb(114, 112, 112);
+
+
+}
+
+.avanzado:hover {
+    box-shadow: 3px 5px 7px 8px rgb(114, 112, 112);
+
+
+
+}
+
+.elige {
+    color: aliceblue;
+    font-size: 70px;
+    text-align: center;
+
+
+
+}
+
+.rutinas {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    text-shadow:
+        1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.5);
+
+
+
+
+
+}
+
+
+
+.gris {
+    background-color: rgb(97, 95, 95);
+}
+
+/*Rutina para principiantes*/
+
+
+.dias {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    border: 5px solid #EAEAEA;
+    border-radius: 50px;
+    margin: 50px;
+    background-color: rgb(78, 71, 71);
+    padding: 30px 30px 30px 30px;
+    text-shadow:
+        1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.4);
+    box-shadow: 1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.5);
+
+
+
+
+
+
+}
+
+.videos {
+    height: 350px;
+    width: 200px;
+    margin-left: 80px;
+    margin-top: 60px;
+    position: relative;
+    border: 5px solid white;
+    border-radius: 50px;
+    box-shadow: 1px 2px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        12px 12px 2px rgba(0, 0, 0, 0.3);
+
+
+
+
+
+
+
+
+
+}
+
+.NombreEjercicio {
+    color: white;
+    text-align: center;
+    margin-top: 12rem;
+    font-size: 40px;
+    margin-left: 10rem;
+
+}
+
+.ejercicios {
+    display: inline-flex;
+    gap: 60px;
+}
+
+.pieRutinas {
+    background-color: rgb(78, 71, 71);
+    height: 99%;
+    width: 99%;
+    border: 5px solid white;
+    border-radius: 50px;
+
+    box-shadow: 1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.5);
+
+
+}
+
+.enlaces {
+    color: white;
+    display: inline;
+    text-decoration: none;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+.enlaces:hover {
+    color: rgb(23, 23, 24);
+    transition: 0.2s;
+
+}
+
+.link {
+    display: inline-flex;
+    margin-left: 70px;
+
+
+}
+
+.headerConsejos {
+    color: #EAEAEA;
+    font-size: 70px;
+    text-shadow:
+        1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.4);
+    text-align: center;
+}
+
+.tabla {
+    background-color: rgb(78, 71, 71);
+    color: white;
+    border: 5px solid white;
+    border-radius: 50px;
+    width: 98%;
+    box-shadow: 1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.5);
+
+
+}
+
+.aspectos {
+    font-size: 20px;
+}
+
+#motivacion {
+    color: white;
+
+}
+
+.animo {
+    background-color: rgb(78, 71, 71);
+    border: 5px solid white;
+    font-size: 20px;
+    width: 98%;
+    border-radius: 50px;
+    padding: 5px;
+    text-align: center;
+    box-shadow: 1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.5);
+}
+
+#yo {
+    color: white;
+}
+
+.abc {
+    text-shadow:
+        1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.4);
+    font-size: 60px;
+}
+// app.js corregido
+function mostrarMensaje() {
+    alert('Bienvenido al mejor Sitio Web de contenido Fitness');
+}
+
+function HacerClick() {
+    // Si quieres que el mensaje aparezca al hacer click en algún elemento
+    // primero asegúrate de que el elemento existe
+    let elemento = document.getElementById('hora');
+    if (elemento) {
+        elemento.addEventListener('click', mostrarMensaje, false);
+    }
+}
+
+// Solo un event listener para load
+window.addEventListener('load', function () {
+    // Si quieres que el mensaje aparezca automáticamente al cargar:
+    // mostrarMensaje();
+
+    // O si quieres asignar el click al elemento:
+    HacerClick();
+}, false);
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Consejos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="gris">
+    <header>
+        <h1 class="headerConsejos">Consejos y aspectos fundamentales para llevar un estilo de vida saludable📆</h1>
+    </header>
+    <section>
+        <table class="tabla">
+            <th class="abc">Flexibilidad y movilidad🤸‍♂️</th>
+            <td>
+                <ul>
+                    <li class="aspectos">
+                        <h2>Qué hacer: Estiramientos estáticos (después del ejercicio), yoga, pilates.</h2>
+                    </li>
+
+                    <li class="aspectos">
+                        <h2>Frecuencia: Idealmente todos los días, especialmente después de entrenar.</h2>
+                    </li>
+
+                    <li class="aspectos">
+                        <h2>Consejo: Dedica 5-10 minutos al final de tu rutina para estirar los músculos
+                            trabajados. Mejora
+                            la
+                            postura y previene lesiones.</h2>
+                    </li>
+                </ul>
+            </td>
+
+
+        </table><br><br><br>
+        <table class="tabla">
+            <th class="abc"> Alimentación🥑</th>
+            <td>
+                <ul>
+                    <li class="aspectos">
+                        <h2>No se trata de hacer dieta, sino de adoptar hábitos sostenibles.</h2>
+                    </li>
+
+                    <li class="aspectos">
+                        <h2>Haz que tu plato sea colorido: Llena al menos la mitad de tu plato con verduras y frutas de
+                            diferentes colores. Aportan vitaminas, minerales y fibra.</h2>
+                    </li>
+
+                    <li class="aspectos">
+                        <h2>Proteínas magras: Incluye fuentes como pollo, pescado, huevos, legumbres (lentejas,
+                            garbanzos), tofu y frutos secos. Son esenciales para la reparación muscular y te mantienen
+                            saciado.</h2>
+                    </li>
+                    <li class="aspectos">
+                        <h2>
+                            Carbohidratos complejos: Elige granos enteros (avena, quinua, arroz integral), pan integral
+                            y patatas. Son tu principal fuente de energía.</h2>
+                    </li>
+                    <li class="aspectos">
+                        <h2>
+                            Grasas saludables: Aguacate, aceite de oliva, frutos secos y semillas. Son cruciales para la
+                            salud cerebral y hormonal.</h2>
+                    </li>
+                    <li class="aspectos">
+                        <h2>Hidrátate: Bebe agua a lo largo del día. La deshidratación causa fatiga y afecta al
+                            rendimiento. Limita las bebidas azucaradas.
+                        </h2>
+                    </li>
+                    <li class="aspectos">
+                        <h2>Moderación, no prohibición: No elimines por completo los alimentos que te gustan.
+                            Disfrútalos de forma ocasional y controlada. Un 80-90% de alimentación nutritiva y un 10-20%
+                            de caprichos es un buen equilibrio.
+                        </h2>
+                    </li>
+                    <li class="aspectos">
+                        <h2> Cocina en casa: Tienes control total sobre los ingredientes y las cantidades de sal y
+                            aceite.
+                        </h2>
+                    </li>
+                </ul>
+            </td>
+
+
+        </table><br><br><br>
+        <table class="tabla">
+            <th class="abc">Descanso😴</th>
+            <td>
+                <ul>
+                    <li class="aspectos">
+                        <h2>Dormir bien es tan importante como hacer ejercicio y comer sano.</h2>
+                    </li>
+
+                    <li class="aspectos">
+                        <h2>Cantidad: Apunta a 7-9 horas de sueño de calidad cada noche.</h2>
+                    </li>
+
+                    <li class="aspectos">
+                        <h2>Proteínas magras: Incluye fuentes como pollo, pescado, huevos, legumbres (lentejas,
+                            garbanzos), tofu y frutos secos. Son esenciales para la reparación muscular y te mantienen
+                            saciado.</h2>
+                    </li>
+                    <li class="aspectos">
+                        <h2>
+                            Rutina: Intenta acostarte y levantarte a la misma hora, incluso los fines de semana. Esto
+                            regula tu reloj interno.</h2>
+                    </li>
+                    <li class="aspectos">
+                        <h2>
+                            Desconecta: Al menos 1 hora antes de dormir, apaga pantallas (móvil, TV, ordenador). La luz
+                            azul inhibe la melatonina (la hormona del sueño).</h2>
+                    </li>
+                    <li class="aspectos">
+                        <h2>Relájate: Toma un baño caliente, lee un libro, practica meditación o respiraciones
+                            profundas.
+                        </h2>
+                    </li>
+                    <li class="aspectos">
+                        <h2>Evita: La cafeína (después de las 3-4 PM) y las cenas pesadas justo antes de acostarte.
+                        </h2>
+                    </li>
+
+                </ul>
+            </td>
+
+
+        </table><br><br><br>
+        <table class="tabla">
+            <th class="abc">Otros hábitos fundamentales para el bienestar🧘‍♂️</th>
+            <td>
+                <ul>
+                    <li class="aspectos">
+                        <h2>Manejo del Estrés: El estrés crónico es perjudicial. Encuentra tu técnica para gestionarlo.
+                        </h2>
+                    </li>
+
+                    <li class="aspectos">
+                        <h2>Meditación o Mindfulness: 10 minutos al día pueden cambiar tu perspectiva.</h2>
+                    </li>
+
+                    <li class="aspectos">
+                        <h2>Respiración profunda: En momentos de tensión, inhala profundamente por la nariz (4
+                            segundos), aguanta la respiración (4 segundos) y exhala lentamente por la boca (6 segundos).
+                        </h2>
+                    </li>
+                    <li class="aspectos">
+                        <h2>
+                            Tiempo en la naturaleza: Un paseo por un parque o el bosque reduce el estrés y mejora el
+                            ánimo.</h2>
+                    </li>
+                    <li class="aspectos">
+                        <h2>
+                            Socialización: Mantener conexiones sociales fuertes con amigos y familia es vital para la
+                            salud mental.</h2>
+                    </li>
+                    <li class="aspectos">
+                        <h2>Revisiones Médicas: No descuides tus chequeos regulares. La prevención es la mejor medicina.
+                        </h2>
+                    </li>
+
+
+                </ul>
+            </td>
+
+
+        </table>
+    </section><br><br><br>
+    <section class="animo">
+
+
+
+        <h2 id="motivacion">El cambio más poderoso es el que puedes mantener. No intentes cambiar todo de la noche a la
+            mañana. Empieza
+            con un hábito a la vez (por ejemplo, beber más agua o caminar 20 minutos al día) y, cuando se convierta en
+            una rutina, añade el siguiente.
+
+
+        </h2>
+        <h2 id="yo">¡Tu yo del futuro te lo agradecerá! 💪</h2>
+    </section><br><br><br>
+    <footer class="pieRutinas">
+
+        <div class="link"> <a href="#fantasma" class="enlaces">
+                <h3>Volver al inicio de la rutina</h3>
+            </a>
+        </div>
+        <div class="link"> <a href="index.html" class="enlaces">
+                <h3>Volver a la pagina principal</h3>
+            </a></div>
+
+        <div class="link"> <a href="planes.html" class="enlaces">
+                <h3>Planes</h3>
+            </a></div>
+
+
+
+        <div class="link">
+            <a href="https://wa.me/+5356873664" class="enlaces">
+                <h3>Contacta al entrenador de VidaFit</h3>
+            </a>
+        </div>
+
+    </footer>
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Rutina de Ejercicios</title>
+    <link rel="stylesheet" href="style.css">
+
+
+</head>
+
+
+
+<body>
+
+    <header class="presentacion">
+
+        <h1 class="lugarcorrecto">VidaFit</h1>
+        <a href="planes.html" style="text-decoration: none;">
+            <h2 id="hora">Es hora de comenzar!</h2>
+        </a>
+
+    </header><br><br><br><br>
+    <section class="Logo"> </section>
+
+
+
+    <footer class="pieDePagina">
+        <p>Rutinas propuestas por Ivan Perez , entrenador personal del proyecto VidaFit</p>
+        <p>Creador del Sitio Web de VidaFit : Yoanniel Ramirez.</p>
+        <p>Todos los derechos reservados.</p>
+
+    </footer>
+    <script src="app.js"></script>
+</body>
+
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Plan para Anvanzados</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="gris">
+    <header>
+        <h1 class="rutinas">--Rutina para avanzados - Torso / Pierna-- </h1>
+        <p class="emoji" id="calavera">☠️</p>
+    </header>
+
+    <section>
+        <h2 class="dias">Lunes (Parte Superior)</h2>
+        <article class="ejercicios">
+
+            <h3 class="NombreEjercicio"> Press Plano <br> ( de 6 a 8 repeticiones en cada serie - 3 series en total)
+            </h3>
+            <video controls class="videos" src="assets/videos/8.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio"> Fondos <br> (3 series intensas con objetivo aprox al fallo muscular)</h3>
+            <video controls class="videos" src="assets/videos/25.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Jalon en polea con agarre prono <br> ( de 6 a 8 repeticiones en cada serie - 3
+                series en
+                total)</h3>
+            <video controls class="videos" src="assets/videos/7.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Remo sentado con agarre neutro <br> ( de 6 a 8 repeticiones en cada serie - 3
+                series en total)</h3>
+            <video controls class="videos" src="assets/videos/26.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Elevaciones laterales con mancuernas<br> ( de 6 a 8 repeticiones en cada serie
+                - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/1031.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Curl de biceps con barra <br> ( de 6 a 8 repeticiones en cada serie - 3 series
+                en total)</h3>
+            <video controls class="videos" src="assets/videos/21.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Press frances <br> (de 8 a 10 repeticiones en cada serie - 3 series en
+                total)</h3>
+            <video controls class="videos" src="assets/videos/5.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <section>
+            <h2 class="dias">Martes ( Parte Inferior - Enfoque:Cuadriceps )</h2>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Sentadilla <br> ( de 6 a 8 repeticiones en cada serie - 3 series en total)
+                </h3>
+                <video controls class="videos" src="assets/videos/10.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Prensa <br> ( de 6 a 8 repeticiones en cada serie - 3 series en total)</h3>
+                <video controls class="videos" src="assets/videos/13.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Extension de cuadriceps <br> (de 12 a 15 repeticiones en cada serie- 3
+                    series en
+                    total)</h3><video controls class="videos" src="assets/videos/34.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Gemelos<br> (de 12 a 15 repeticiones en cada serie- 3 series en total)
+                </h3><video controls class="videos" src="assets/videos/3(1).mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+
+        </section>
+        <section>
+            <h2 class="dias"> Miercoles ( Parte Superior )</h2>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Press de hombro <br> (de 8 a 10 repeticiones en cada serie - 3 series en
+                    total)
+                </h3><video controls class="videos" src="assets/videos/18.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Press Inclinado <br> ( de 6 a 8 repeticiones en cada serie - 3 series en
+                    total)
+                </h3>
+                <video controls class="videos" src="assets/videos/6(1).mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio"> Fondos <br> (2 series intensas con objetivo aprox al fallo muscular)</h3>
+                <video controls class="videos" src="assets/videos/25.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Jalon en polea con agarre supino <br> ( de 6 a 8 repeticiones en cada serie
+                    - 3
+                    series en
+                    total)</h3>
+                <video controls class="videos" src="assets/videos/9.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Remo sentado con agarre neutro <br> ( de 6 a 8 repeticiones en cada serie -
+                    3
+                    series en total)</h3>
+                <video controls class="videos" src="assets/videos/26.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Curl de biceps con concentrado <br> ( de 6 a 8 repeticiones en cada serie -
+                    3
+                    series
+                    en total)</h3>
+                <video controls class="videos" src="assets/videos/40.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Extension de triceps en polea <br> (de 8 a 10 repeticiones en cada serie - 3
+                    series en total)
+                </h3><video controls class="videos" src="assets/videos/38.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+        </section>
+        <section>
+            <h2 class="dias">Jueves (Parte Inferior - Enfoque : Gluteos y Femural)</h2>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Sentadilla <br> ( de 6 a 8 repeticiones en cada serie - 3 series en total)
+                </h3>
+                <video controls class="videos" src="assets/videos/10.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Prensa <br> ( de 6 a 8 repeticiones en cada serie - 3 series en total)</h3>
+                <video controls class="videos" src="assets/videos/11.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Bulgaras <br> (de 8 a 10 repeticiones en cada serie - 3 series en total)
+                </h3>
+                <video controls class="videos" src="assets/videos/16.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Peso muerto rumano <br> ( de 6 a 8 repeticiones en cada serie - 3 series en
+                    total)</h3>
+                <video controls class="videos" src="assets/videos/30.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Gemelos<br> (de 8 a 10 repeticiones en cada serie - 3 series en total)</h3>
+                <video controls class="videos" src="assets/videos/3(1).mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+        </section>
+        <section>
+            <h2 class="dias">Viernes (Parte Superior)</h2>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Dominadas <br> (de 8 a 10 repeticiones en cada serie - 3 series en total)
+                </h3>
+                <video controls class="videos" src="assets/videos/39.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio"> Fondos <br> (2 series intensas con objetivo aprox al fallo muscular)</h3>
+                <video controls class="videos" src="assets/videos/25.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Press de hombro <br> (de 8 a 10 repeticiones en cada serie - 3 series en
+                    total)
+                </h3><video controls class="videos" src="assets/videos/18.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Elevaciones laterales con mancuernas<br> (de 8 a 10 repeticiones en cada
+                    serie
+                    - 3 series en total)</h3>
+                <video controls class="videos" src="assets/videos/1031.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Curl de biceps con barra <br> (de 8 a 10 repeticiones en cada serie - 3
+                    series
+                    en total)</h3>
+                <video controls class="videos" src="assets/videos/21.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Curl martillo <br> (de 8 a 10 repeticiones en cada serie - 3 series en
+                    total)
+                </h3>
+                <video controls class="videos" src="assets/videos/22.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Press frances <br> (de 10 a 12 repeticiones en cada serie- 3 series en
+                    total)</h3>
+                <video controls class="videos" src="assets/videos/5.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Extension de triceps en polea <br> (de 10 a 12 repeticiones en cada serie- 3
+                    series en total)
+                </h3><video controls class="videos" src="assets/videos/38.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+        </section>
+        <section>
+            <h2 class="dias">Sabado ( Parte Inferior Completa)</h2>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Squats <br> (de 8 a 10 repeticiones en cada serie - 3 series en total)</h3>
+                <video controls class="videos" src="assets/videos/2.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Bulgaras <br> (de 8 a 10 repeticiones en cada serie - 3 series en total)
+                </h3>
+                <video controls class="videos" src="assets/videos/16.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Extension de cuadriceps <br> (de 10 a 12 repeticiones en cada serie- 3
+                    series en
+                    total)</h3><video controls class="videos" src="assets/videos/34.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Peso muerto rumano <br> ( de 6 a 8 repeticiones en cada serie - 3 series en
+                    total)</h3>
+                <video controls class="videos" src="assets/videos/30.mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+            <article class="ejercicios">
+                <h3 class="NombreEjercicio">Gemelos<br> (de 12 a 15 repeticiones en cada serie- 3 series en total)
+                </h3><video controls class="videos" src="assets/videos/3(1).mp4"
+                    poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+            </article>
+        </section><br><br><br><br>
+        <footer class="pieRutinas">
+
+            <div class="link"> <a href="#calavera" class="enlaces">
+                    <h3>Volver al inicio de la rutina</h3>
+                </a>
+            </div>
+            <div class="link"> <a href="index.html" class="enlaces">
+                    <h3>Volver a la pagina principal</h3>
+                </a></div>
+
+            <div class="link"> <a href="planes.html" class="enlaces">
+                    <h3>Planes</h3>
+                </a></div>
+
+            <div class="link"><a href="consejos.html" class="enlaces">
+                    <h3>Consejos</h3>
+                </a></div>
+            <div class="link">
+                <a href="https://wa.me/+5356873664" class="enlaces">
+                    <h3>Contacta al entrenador de VidaFit</h3>
+                </a>
+            </div>
+
+        </footer>
+
+
+</body>
+
+
+
+</html>
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Plan para Intermedios</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="gris">
+    <header>
+        <h1 class="rutinas">--Rutina para intermedios - Push / Pull / Leg - 6 dias a la semana--</h1>
+        <p class="emoji" id="craneo">💀</p>
+    </header>
+    <section>
+        <h2 class="dias">Lunes y Jueves (Pecho-Hombro-Triceps)</h2>
+        <article class="ejercicios">
+
+            <h3 class="NombreEjercicio"> Press Plano <br> ( de 6 a 8 repeticiones en cada serie - 3 series en total)
+            </h3>
+            <video controls class="videos" src="assets/videos/8.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+
+        </article>
+
+
+
+
+
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Press Inclinado <br> ( de 6 a 8 repeticiones en cada serie - 3 series en total)
+            </h3>
+            <video controls class="videos" src="assets/videos/6(1).mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio"> Fondos <br> (2 series intensas con objetivo aprox al fallo muscular)</h3>
+            <video controls class="videos" src="assets/videos/25.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Press de hombro <br> (de 8 a 10 repeticiones en cada serie - 3 series en total)
+            </h3><video controls class="videos" src="assets/videos/18.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Elevaciones laterales con mancuernas<br> (de 8 a 10 repeticiones en cada serie
+                - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/1031.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Deltoides posterior<br> (de 8 a 10 repeticiones en cada serie
+                - 3 series en total)</h3><video controls class="videos" src="assets/videos/4.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Press frances <br> (de 10 a 12 repeticiones en cada serie- 3 series en
+                total)</h3>
+            <video controls class="videos" src="assets/videos/5.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Extension de triceps en polea <br> (de 10 a 12 repeticiones en cada serie- 3
+                series en total)
+            </h3><video controls class="videos" src="assets/videos/38.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+    </section>
+    <section>
+        <h2 class="dias">Martes y Viernes ( Espalda-Biceps-Trapecio )</h2>
+
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Dominadas <br> (de 8 a 10 repeticiones en cada serie - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/39.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Jalon en polea con agarre neutro <br> ( de 6 a 8 repeticiones en cada serie - 3
+                series en
+                total)</h3>
+            <video controls class="videos" src="assets/videos/32.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Remo sentado con agarre neutro <br> ( de 6 a 8 repeticiones en cada serie - 3
+                series en total)</h3>
+            <video controls class="videos" src="assets/videos/26.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Curl de biceps con barra <br> (de 8 a 10 repeticiones en cada serie - 3 series
+                en total)</h3>
+            <video controls class="videos" src="assets/videos/21.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Curl martillo <br> (de 8 a 10 repeticiones en cada serie - 3 series en total)
+            </h3>
+            <video controls class="videos" src="assets/videos/22.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Encojimiento de hombros<br> (de 8 a 10 repeticiones en cada serie - 3 series en
+                total)</h3>
+            <video controls class="videos" src="assets/videos/3.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+
+
+
+    </section>
+    <section>
+        <h2 class="dias">Miercoles ( Pierna - Enfoque Cuadriceps )</h2>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Sentadilla <br> ( de 6 a 8 repeticiones en cada serie - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/10.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Prensa <br> ( de 6 a 8 repeticiones en cada serie - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/13.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Squats <br> (de 8 a 10 repeticiones en cada serie - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/2.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Extension de cuadriceps <br> (de 12 a 15 repeticiones en cada serie- 3 series en
+                total)</h3><video controls class="videos" src="assets/videos/34.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Gemelos<br> (de 12 a 15 repeticiones en cada serie- 3 series en total)
+            </h3><video controls class="videos" src="assets/videos/3(1).mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+    </section>
+    <section>
+        <h2 class="dias">Sabado ( Pierna - Enfoque Femural )</h2>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Sentadilla <br> ( de 6 a 8 repeticiones en cada serie - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/10.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Prensa <br> ( de 6 a 8 repeticiones en cada serie - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/11.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Bulgaras <br> (de 8 a 10 repeticiones en cada serie - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/16.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Abductores<br> (de 8 a 10 repeticiones en cada serie - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/17.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Peso muerto rumano <br> ( de 6 a 8 repeticiones en cada serie - 3 series en
+                total)</h3>
+            <video controls class="videos" src="assets/videos/30.mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+        <article class="ejercicios">
+            <h3 class="NombreEjercicio">Gemelos<br> (de 8 a 10 repeticiones en cada serie - 3 series en total)</h3>
+            <video controls class="videos" src="assets/videos/3(1).mp4"
+                poster="assets/img/carrocero masculino figura icono, gimnasio logo plantilla, atlético hombre firmar blanco silueta en negro antecedentes_ vector ilustración.jpg"></video>
+        </article>
+    </section><br><br><br><br>
+    <footer class="pieRutinas">
+
+        <div class="link"> <a href="#craneo" class="enlaces">
+                <h3>Volver al inicio de la rutina</h3>
+            </a>
+        </div>
+        <div class="link"> <a href="index.html" class="enlaces">
+                <h3>Volver a la pagina principal</h3>
+            </a></div>
+
+        <div class="link"> <a href="planes.html" class="enlaces">
+                <h3>Planes</h3>
+            </a></div>
+
+        <div class="link"><a href="consejos.html" class="enlaces">
+                <h3>Consejos</h3>
+            </a></div>
+        <div class="link">
+            <a href="https://wa.me/+5356873664" class="enlaces">
+                <h3>Contacta al entrenador de VidaFit</h3>
+            </a>
+        </div>
+
+    </footer>
+</body>
+
+</html>
