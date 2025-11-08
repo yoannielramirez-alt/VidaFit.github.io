@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title> Tu Rutina de Gimnasio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 2rem;
+        }
+
+        .logo {
+            font-size: 1.8rem;
+            font-weight: bold;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+
+        nav ul li {
+            margin-left: 2rem;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+
+        nav ul li a:hover {
+            color: #ffd700;
+        }
+
+        .hero {
+            background: url('https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80') no-repeat center center/cover;
+            height: 80vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: white;
+            margin-top: 60px;
+        }
+
+        .hero-content {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 2rem;
+            border-radius: 10px;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+        }
+
+        .section-title {
+            text-align: center;
+            margin-bottom: 3rem;
+            color: #333;
+        }
+
+        .routine-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .routine-card {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+        }
+
+        .routine-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .routine-card h3 {
+            color: #667eea;
+            margin-bottom: 1rem;
+        }
+
+        .exercise-list {
+            list-style: none;
+        }
+
+        .exercise-list li {
+            padding: 0.5rem 0;
+            border-bottom: 1px solid #eee;
+        }
+
+        .exercise-list li:last-child {
+            border-bottom: none;
+        }
+
+        .tips-section {
+            background: white;
+            padding: 3rem;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            margin-bottom: 3rem;
+        }
+
+        .tips-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+        }
+
+        .tip-item {
+            text-align: center;
+            padding: 1rem;
+        }
+
+        .tip-item i {
+            font-size: 2rem;
+            color: #667eea;
+            margin-bottom: 1rem;
+        }
+
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 2rem 0;
+            margin-top: 3rem;
+        }
+
+        @media (max-width: 768px) {
+            .nav-container {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            nav ul {
+                margin-top: 1rem;
+            }
+
+            nav ul li {
+                margin: 0 0.5rem;
+            }
+
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .routine-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="nav-container">
+            <div class="logo">FitLife</div>
+            <nav>
+                <ul>
+                    <li><a href="#inicio">Inicio</a></li>
+                    <li><a href="#rutinas">Rutinas</a></li>
+                    <li><a href="#tips">Consejos</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="inicio" class="hero">
+        <div class="hero-content">
+            <h1>Transforma Tu Cuerpo</h1>
+            <p>Rutinas profesionales para todos los niveles</p>
+        </div>
+    </section>
+
+    <div class="container">
+        <section id="rutinas">
+            <h2 class="section-title">Rutinas de Entrenamiento</h2>
+
+            <div class="routine-grid">
+                <div class="routine-card">
+                    <h3>Principiante - Full Body</h3>
+                    <ul class="exercise-list">
+                        <li>🔄 Sentadillas: 3x12</li>
+                        <li>🔄 Press de banca: 3x10</li>
+                        <li>🔄 Dominadas asistidas: 3x8</li>
+                        <li>🔄 Press militar: 3x10</li>
+                        <li>🔄 Curl de bíceps: 3x12</li>
+                        <li>🔄 Extensiones de tríceps: 3x12</li>
+                        <li>🔄 Plancha: 3x30 segundos</li>
+                    </ul>
+                </div>
+
+                <div class="routine-card">
+                    <h3>Intermedio - Push/Pull/Legs</h3>
+                    <ul class="exercise-list">
+                        <li><strong>Push:</strong> Press banca, Press militar, Fondos</li>
+                        <li><strong>Pull:</strong> Dominadas, Remo con barra, Curl martillo</li>
+                        <li><strong>Legs:</strong> Sentadillas, Peso muerto, Extensiones</li>
+                        <li>📅 6 días por semana</li>
+                        <li>⏱️ 60-75 minutos por sesión</li>
+                    </ul>
+                </div>
+
+                <div class="routine-card">
+                    <h3>Avanzado - Fuerza</h3>
+                    <ul class="exercise-list">
+                        <li>🏋️ Sentadillas pesadas: 5x5</li>
+                        <li>🏋️ Press banca: 5x5</li>
+                        <li>🏋️ Peso muerto: 1x5</li>
+                        <li>🏋️ Press militar: 5x5</li>
+                        <li>🏋️ Remo con barra: 5x5</li>
+                        <li>📈 Progresión lineal</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="tips" class="tips-section">
+            <h2 class="section-title">Consejos de Entrenamiento</h2>
+            <div class="tips-grid">
+                <div class="tip-item">
+                    <i>💪</i>
+                    <h3>Progresión Constante</h3>
+                    <p>Aumenta el peso o repeticiones cada semana</p>
+                </div>
+                <div class="tip-item">
+                    <i>🍎</i>
+                    <h3>Nutrición</h3>
+                    <p>Proteína suficiente y calorías adecuadas</p>
+                </div>
+                <div class="tip-item">
+                    <i>💤</i>
+                    <h3>Descanso</h3>
+                    <p>7-8 horas de sueño para la recuperación</p>
+                </div>
+                <div class="tip-item">
+                    <i>🚰</i>
+                    <h3>Hidratación</h3>
+                    <p>2-3 litros de agua diarios</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="contacto">
+            <h2 class="section-title">¿Necesitas Ayuda Personalizada?</h2>
+            <div style="text-align: center; margin-bottom: 3rem;">
+                <p>Contáctanos para crear una rutina específica para tus objetivos</p>
+                <button
+                    style="background: #667eea; color: white; border: none; padding: 1rem 2rem; border-radius: 5px; margin-top: 1rem; cursor: pointer;">
+                    Solicitar Asesoría
+                </button>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 FitLife - Rutinas de Gimnasio. Todos los derechos reservados.</p>
+        <p style="margin-top: 1rem;">Síguenos en redes sociales</p>
+    </footer>
+
+    <script>
+        // Smooth scroll para los enlaces del menú
+        document.querySelectorAll('nav a').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const targetId = this.getAttribute('href');
+                const targetElement = document.querySelector(targetId);
+                targetElement.scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'start'
+                });
+            });
+        });
+
+        // Efecto de scroll para el header
+        window.addEventListener('scroll', function () {
+            const header = document.querySelector('header');
+            if (window.scrollY > 100) {
+                header.style.background = 'rgba(102, 126, 234, 0.95)';
+            } else {
+                header.style.background = 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)';
+            }
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,415 @@
+body {
+    background-color: black;
+}
+
+.emoji {
+    text-align: center;
+    font-size: 60px;
+    text-shadow:
+        1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.5);
+}
+
+/*Pagina principal*/
+.lugarcorrecto {
+    padding: 1px;
+    color: white;
+    font-size: 50px;
+}
+
+.presentacion {
+
+    background-image: url('assets/img/download.jpg');
+
+    background-size: cover;
+
+    background-repeat: no-repeat;
+    background-position: center top;
+    margin: auto;
+
+    padding: 50px;
+
+    border-radius: 50px;
+    height: 500px;
+    width: 80%;
+    max-width: 700px;
+    display: flex;
+    text-align: center;
+}
+
+
+#hora {
+    text-align: center;
+    color: white;
+    border: 5px solid white;
+
+    font-size: 30px;
+
+    height: 45px;
+
+
+    width: 300px;
+    padding: 15px 4px 10px 4px;
+
+    margin-top: 300px;
+    margin-left: 30px;
+    display: flex;
+    padding: auto;
+
+
+
+
+
+
+}
+
+#hora:hover {
+    box-shadow: 1px 1px 2px 2px white;
+
+
+}
+
+.pieDePagina {
+    background-color: black;
+    color: #EAEAEA;
+    width: 100%;
+    height: 115px;
+    font-size: 20px;
+    padding-left: 15px;
+    text-align: center;
+}
+
+
+/*Planes*/
+
+
+
+
+
+
+th {
+
+    font-size: 38px;
+    text-decoration-color: aliceblue;
+    height: 76px;
+    width: 418px;
+    padding: 38px;
+
+
+
+}
+
+
+
+.principiante {
+    background-image: url('assets/img/download\ \(4\).jpg');
+
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    font-size: 40px;
+
+    height: 200px;
+
+    width: 400px;
+
+    background-position: center;
+    color: white;
+    transition: 0.3s;
+    margin-left: 110px;
+
+    text-align: center;
+
+
+
+}
+
+
+
+.intermedio {
+    background-image: url('assets/img/download\ \(3\).jpg');
+
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    font-size: 40px;
+    height: 200px;
+
+    width: 400px;
+
+    background-position: center;
+    color: white;
+    transition: 0.3s;
+    text-align: center;
+
+
+
+
+
+
+
+
+}
+
+.avanzado {
+    background-image: url('assets/img/download\ \(1\).jpg');
+
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    font-size: 40px;
+    height: 200px;
+
+    width: 400px;
+
+    background-position: center;
+    color: white;
+    transition: 0.3s;
+    text-align: center;
+
+
+
+}
+
+.lista {
+    display: flex;
+    gap: 160px;
+    list-style-type: none;
+    margin-top: 150px;
+}
+
+
+.principiante:hover {
+    box-shadow: 3px 5px 7px 8px rgb(114, 112, 112);
+
+
+
+
+}
+
+.intermedio:hover {
+    box-shadow: 3px 5px 7px 8px rgb(114, 112, 112);
+
+
+}
+
+.avanzado:hover {
+    box-shadow: 3px 5px 7px 8px rgb(114, 112, 112);
+
+
+
+}
+
+.elige {
+    color: aliceblue;
+    font-size: 70px;
+    text-align: center;
+
+
+
+}
+
+.rutinas {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    text-shadow:
+        1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.5);
+
+
+
+
+
+}
+
+
+
+.gris {
+    background-color: rgb(97, 95, 95);
+}
+
+/*Rutina para principiantes*/
+
+
+.dias {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    border: 5px solid #EAEAEA;
+    border-radius: 50px;
+    margin: 50px;
+    background-color: rgb(78, 71, 71);
+    padding: 30px 30px 30px 30px;
+    text-shadow:
+        1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.4);
+    box-shadow: 1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.5);
+
+
+
+
+
+
+}
+
+.videos {
+    height: 350px;
+    width: 200px;
+    margin-left: 80px;
+    margin-top: 60px;
+    position: relative;
+    border: 5px solid white;
+    border-radius: 50px;
+    box-shadow: 1px 2px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        12px 12px 2px rgba(0, 0, 0, 0.3);
+
+
+
+
+
+
+
+
+
+}
+
+.NombreEjercicio {
+    color: white;
+    text-align: center;
+    margin-top: 12rem;
+    font-size: 40px;
+    margin-left: 10rem;
+
+}
+
+.ejercicios {
+    display: inline-flex;
+    gap: 60px;
+}
+
+.pieRutinas {
+    background-color: rgb(78, 71, 71);
+    height: 99%;
+    width: 99%;
+    border: 5px solid white;
+    border-radius: 50px;
+
+    box-shadow: 1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.5);
+
+
+}
+
+.enlaces {
+    color: white;
+    display: inline;
+    text-decoration: none;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+.enlaces:hover {
+    color: rgb(23, 23, 24);
+    transition: 0.2s;
+
+}
+
+.link {
+    display: inline-flex;
+    margin-left: 70px;
+
+
+}
+
+.headerConsejos {
+    color: #EAEAEA;
+    font-size: 70px;
+    text-shadow:
+        1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.4);
+    text-align: center;
+}
+
+.tabla {
+    background-color: rgb(78, 71, 71);
+    color: white;
+    border: 5px solid white;
+    border-radius: 50px;
+    width: 98%;
+    box-shadow: 1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.5);
+
+
+}
+
+.aspectos {
+    font-size: 20px;
+}
+
+#motivacion {
+    color: white;
+
+}
+
+.animo {
+    background-color: rgb(78, 71, 71);
+    border: 5px solid white;
+    font-size: 20px;
+    width: 98%;
+    border-radius: 50px;
+    padding: 5px;
+    text-align: center;
+    box-shadow: 1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.5);
+}
+
+#yo {
+    color: white;
+}
+
+.abc {
+    text-shadow:
+        1px 1px 0px rgba(230, 230, 230, 1),
+        2px 2px 0px rgba(200, 200, 200, 1),
+        3px 3px 0px rgba(180, 180, 180, 1),
+        4px 4px 0px rgba(160, 160, 160, 1),
+        5px 5px 0px rgba(0, 0, 0, 1),
+        8px 8px 0px rgba(0, 0, 0, 0.4);
+    font-size: 60px;
+}
