@@ -41,9 +41,8 @@ body {
     text-align: center;
 }
 
-
 #hora {
- text-align: center;
+    text-align: center;
     color: white;
     border: 5px solid white;
     font-size: 30px;
@@ -59,8 +58,18 @@ body {
 
 
 
-
 }
+
+@media (max-width: 768px) {
+    #hora {
+        width: 90%;
+        max-width: 300px;
+        margin: 200px auto 0 auto;
+        height: 50px;
+        font-size: 24px;
+    }
+}
+
 
 #hora:hover {
     box-shadow: 1px 1px 2px 2px white;
@@ -409,3 +418,4 @@ th {
     font-size: 60px;
 
 }
+
